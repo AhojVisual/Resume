@@ -1,0 +1,64 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.resume-header {
+    background-color: #e3772c;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.resume-header h1 {
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.logo-box {
+    width: 50px;
+    height: 50px;
+    border: 2px solid white;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    line-height: 45px;
+}
+
+.section-title {
+    font-size: 28px;
+    margin-top: 25px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.side-section-title {
+    font-size: 24px;
+    margin-top: 25px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.contact-info i {
+    margin-right: 8px;
+    color: #e3772c;
+}
+
+.skill-title {
+    font-weight: bold;
+}
+
+.language-bar {
+    background-color: #ccc;
+    height: 8px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+.language-fill {
+    height: 8px;
+    border-radius: 4px;
+    background-color: #e3772c;
+}
