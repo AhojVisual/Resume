@@ -188,14 +188,12 @@ a.text-link{
         padding-left: 0px !important;
     }
 
-    .primary-info{
-        position: relative;
-    }
+    
     .secondary-info{
        
         position: absolute;
         top: 485px;
-        Left: 107px;
+        Left: 100px;
     }
 
     .resume-header {
@@ -203,4 +201,14 @@ a.text-link{
     }
 
 
+}
+
+@media (max-width: 450px)
+{
+    .secondary-info {
+    
+        position: absolute;
+        top: 485px;
+        Left: 68px;
+    } 
 }
